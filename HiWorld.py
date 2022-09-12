@@ -18,3 +18,7 @@ n1=120
 n2=150
 suma=(n1+n2*5)/12
 print(suma)
+
+width = 15
+height = 12.0
+print(height/3)
