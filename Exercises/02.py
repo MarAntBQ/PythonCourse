@@ -8,7 +8,7 @@ a,b=b,a
 #     b = a
 #     a = temp
 # elif (a == b):
-#     temp = a
+#     next
 # else:
 #     temp = a
 #     a = b
